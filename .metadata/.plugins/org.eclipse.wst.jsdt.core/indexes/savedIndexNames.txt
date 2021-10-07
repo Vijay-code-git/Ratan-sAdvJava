@@ -1,0 +1,26 @@
+INDEX VERSION 1.4+C:\Users\Vijay\AEMjuly\advjava\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+503466287.index
+878724896.index
+1093226347.index
+667314037.index
+3427656582.index
+4068900824.index
+2690215151.index
+4054216657.index
+75564803.index
+2047668039.index
+1275051627.index
+645417181.index
+2941879028.index
+391651659.index
+2320991506.index
+3453980384.index
+1946688633.index
+25998741.index
+168750604.index
+130690177.index
+4114435365.index
+1622006268.index
+654556608.index
+329266539.index
+636160177.index

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.tcs.FirstServlet&apos; to &apos;LoginServlet&apos;&#x0D;&#x0A;- Original project: &apos;ListenerLoginApp&apos;&#x0D;&#x0A;- Original element: &apos;com.tcs.FirstServlet&apos;&#x0D;&#x0A;- Renamed element: &apos;com.tcs.LoginServlet&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;FirstServlet&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.tcs{FirstServlet.java[FirstServlet" matchStrategy="1" name="LoginServlet" qualified="false" references="true" similarDeclarations="false" stamp="1632214934451" textual="false" version="1.0"/>
+</session>

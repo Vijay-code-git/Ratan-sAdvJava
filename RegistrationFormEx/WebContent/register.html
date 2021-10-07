@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<center>***** Registration Form Application *****</center>
+</head>
+<body bgcolor="powderblue">
+<form method="post" action="./RegistrationServlet">
+<pre>
+	User Name <input type="text" name="username"/> <br>
+	Password <input type="password" name="password"/> <br>
+	
+	Qualifcation   <input type="checkbox" name="qualification" value="BSC"> BSC 
+				  <input type="checkbox" name="qualification" value="MCA">         MCA 
+				  <input type="checkbox" name="qualification" value="M TECH"/>M TECH
+	 <br>
+	Gender <input type="radio" name="gender" value="MALE">MALE 
+		      <input type="radio" name="gender" value="FEMALE">FEMALE
+	 <br>
+	Technologies <select name="technologies" size="3" multiple style="width: 144px; height: 72px">
+				 <option value="C">C</option>
+				 <option value="C++">C++</option>
+				 <option value="JAVA">JAVA</option>
+	</select>
+	 <br>
+	Address <textarea type="textarea" name="address" rows="5" cols="25"></textarea>
+	 <br>		<input type="submit" value="Register"/>
+</pre>
+</form>
+</body>
+</html>
